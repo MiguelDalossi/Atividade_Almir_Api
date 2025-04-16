@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Atividade_Almir_Api.props" />
+</Project>
