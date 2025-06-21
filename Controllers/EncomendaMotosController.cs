@@ -6,11 +6,13 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Atividade_Almir_Api.Model;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Atividade_Almir_Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+   
     public class EncomendaMotosController : ControllerBase
     {
         private readonly Contexto _context;

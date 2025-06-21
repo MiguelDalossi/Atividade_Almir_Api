@@ -11,5 +11,7 @@ namespace Atividade_Almir_Api.Model
         public DbSet<EncomendaMoto> EncomendaMotos { get; set; }
 
         public DbSet<Cliente> Clientes { get; set; }
+
+        public DbSet<User> Usuarios { get; set; }
     }
 }

@@ -286,3 +286,4 @@ C:\Users\migue\source\repos\Atividade_Almir_Api\bin\Debug\net8.0\Motos\package-l
 C:\Users\migue\source\repos\Atividade_Almir_Api\bin\Debug\net8.0\Motos\package.json
 C:\Users\migue\source\repos\Atividade_Almir_Api\bin\Debug\net8.0\Motos\public\manifest.json
 C:\Users\migue\source\repos\Atividade_Almir_Api\obj\Debug\net8.0\Atividade_Almir_Api.sourcelink.json
+C:\Users\migue\source\repos\Atividade_Almir_Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
