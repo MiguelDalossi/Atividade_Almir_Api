@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\migue\\source\\repos\\Atividade_Almir_Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3732CBC-0F36-45B4-A322-97F5EFE52EAF}|Atividade_Almir_Api.csproj|c:\\users\\migue\\source\\repos\\atividade_almir_api\\model\\motos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3732CBC-0F36-45B4-A322-97F5EFE52EAF}|Atividade_Almir_Api.csproj|solutionrelative:model\\motos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3732CBC-0F36-45B4-A322-97F5EFE52EAF}|Atividade_Almir_Api.csproj|c:\\users\\migue\\source\\repos\\atividade_almir_api\\controllers\\motoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3732CBC-0F36-45B4-A322-97F5EFE52EAF}|Atividade_Almir_Api.csproj|solutionrelative:controllers\\motoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3732CBC-0F36-45B4-A322-97F5EFE52EAF}|Atividade_Almir_Api.csproj|c:\\users\\migue\\source\\repos\\atividade_almir_api\\model\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3732CBC-0F36-45B4-A322-97F5EFE52EAF}|Atividade_Almir_Api.csproj|solutionrelative:model\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3732CBC-0F36-45B4-A322-97F5EFE52EAF}|Atividade_Almir_Api.csproj|c:\\users\\migue\\source\\repos\\atividade_almir_api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3732CBC-0F36-45B4-A322-97F5EFE52EAF}|Atividade_Almir_Api.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3732CBC-0F36-45B4-A322-97F5EFE52EAF}|Atividade_Almir_Api.csproj|c:\\users\\migue\\source\\repos\\atividade_almir_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D3732CBC-0F36-45B4-A322-97F5EFE52EAF}|Atividade_Almir_Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{D3732CBC-0F36-45B4-A322-97F5EFE52EAF}|Atividade_Almir_Api.csproj|c:\\users\\migue\\source\\repos\\atividade_almir_api\\controllers\\encomendamotoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3732CBC-0F36-45B4-A322-97F5EFE52EAF}|Atividade_Almir_Api.csproj|solutionrelative:controllers\\encomendamotoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3732CBC-0F36-45B4-A322-97F5EFE52EAF}|Atividade_Almir_Api.csproj|c:\\users\\migue\\source\\repos\\atividade_almir_api\\model\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3732CBC-0F36-45B4-A322-97F5EFE52EAF}|Atividade_Almir_Api.csproj|solutionrelative:model\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3732CBC-0F36-45B4-A322-97F5EFE52EAF}|Atividade_Almir_Api.csproj|c:\\users\\migue\\source\\repos\\atividade_almir_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,8 +31,24 @@
       "RelativeMoniker": "D:0:0:{D3732CBC-0F36-45B4-A322-97F5EFE52EAF}|Atividade_Almir_Api.csproj|solutionrelative:migrations\\contextomodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3732CBC-0F36-45B4-A322-97F5EFE52EAF}|Atividade_Almir_Api.csproj|c:\\users\\migue\\source\\repos\\atividade_almir_api\\controllers\\motoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3732CBC-0F36-45B4-A322-97F5EFE52EAF}|Atividade_Almir_Api.csproj|solutionrelative:controllers\\motoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3732CBC-0F36-45B4-A322-97F5EFE52EAF}|Atividade_Almir_Api.csproj|c:\\users\\migue\\source\\repos\\atividade_almir_api\\model\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3732CBC-0F36-45B4-A322-97F5EFE52EAF}|Atividade_Almir_Api.csproj|solutionrelative:model\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3732CBC-0F36-45B4-A322-97F5EFE52EAF}|Atividade_Almir_Api.csproj|c:\\users\\migue\\source\\repos\\atividade_almir_api\\model\\encomendamotodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3732CBC-0F36-45B4-A322-97F5EFE52EAF}|Atividade_Almir_Api.csproj|solutionrelative:model\\encomendamotodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3732CBC-0F36-45B4-A322-97F5EFE52EAF}|Atividade_Almir_Api.csproj|c:\\users\\migue\\source\\repos\\atividade_almir_api\\model\\motos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3732CBC-0F36-45B4-A322-97F5EFE52EAF}|Atividade_Almir_Api.csproj|solutionrelative:model\\motos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3732CBC-0F36-45B4-A322-97F5EFE52EAF}|Atividade_Almir_Api.csproj|c:\\users\\migue\\source\\repos\\atividade_almir_api\\model\\encomendamoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3732CBC-0F36-45B4-A322-97F5EFE52EAF}|Atividade_Almir_Api.csproj|solutionrelative:model\\encomendamoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3732CBC-0F36-45B4-A322-97F5EFE52EAF}|Atividade_Almir_Api.csproj|c:\\users\\migue\\source\\repos\\atividade_almir_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D3732CBC-0F36-45B4-A322-97F5EFE52EAF}|Atividade_Almir_Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,19 +66,84 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ContextoModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\Atividade_Almir_Api\\Migrations\\ContextoModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Migrations\\ContextoModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\migue\\source\\repos\\Atividade_Almir_Api\\Migrations\\ContextoModelSnapshot.cs",
-              "RelativeToolTip": "Migrations\\ContextoModelSnapshot.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAApAAAA",
+              "DocumentIndex": 0,
+              "Title": "MotosController.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\Atividade_Almir_Api\\Controllers\\MotosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MotosController.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\Atividade_Almir_Api\\Controllers\\MotosController.cs",
+              "RelativeToolTip": "Controllers\\MotosController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T19:53:23.48Z"
+              "WhenOpened": "2025-04-01T23:15:15.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Motos.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\Atividade_Almir_Api\\Model\\Motos.cs",
+              "RelativeDocumentMoniker": "Model\\Motos.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\Atividade_Almir_Api\\Model\\Motos.cs",
+              "RelativeToolTip": "Model\\Motos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T23:00:25.521Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\Atividade_Almir_Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\Atividade_Almir_Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T22:55:26.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\Atividade_Almir_Api\\Model\\Cliente.cs",
+              "RelativeDocumentMoniker": "Model\\Cliente.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\Atividade_Almir_Api\\Model\\Cliente.cs",
+              "RelativeToolTip": "Model\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T18:29:50.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\Atividade_Almir_Api\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\Atividade_Almir_Api\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Controllers\\ClientesController.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T18:34:58.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EncomendaMotosController.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\Atividade_Almir_Api\\Controllers\\EncomendaMotosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EncomendaMotosController.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\Atividade_Almir_Api\\Controllers\\EncomendaMotosController.cs",
+              "RelativeToolTip": "Controllers\\EncomendaMotosController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAQwGIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T18:21:18.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "20250401231021_InicialCreate.cs",
               "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\Atividade_Almir_Api\\Migrations\\20250401231021_InicialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20250401231021_InicialCreate.cs",
@@ -70,7 +155,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "Contexto.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\Atividade_Almir_Api\\Model\\Contexto.cs",
+              "RelativeDocumentMoniker": "Model\\Contexto.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\Atividade_Almir_Api\\Model\\Contexto.cs",
+              "RelativeToolTip": "Model\\Contexto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T22:52:11.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContextoModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\Atividade_Almir_Api\\Migrations\\ContextoModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ContextoModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\Atividade_Almir_Api\\Migrations\\ContextoModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ContextoModelSnapshot.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwIgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T19:53:23.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EncomendaMotoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\Atividade_Almir_Api\\Model\\EncomendaMotoDTO.cs",
+              "RelativeDocumentMoniker": "Model\\EncomendaMotoDTO.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\Atividade_Almir_Api\\Model\\EncomendaMotoDTO.cs",
+              "RelativeToolTip": "Model\\EncomendaMotoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:02:41.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EncomendaMoto.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\Atividade_Almir_Api\\Model\\EncomendaMoto.cs",
+              "RelativeDocumentMoniker": "Model\\EncomendaMoto.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\Atividade_Almir_Api\\Model\\EncomendaMoto.cs",
+              "RelativeToolTip": "Model\\EncomendaMoto.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T18:10:11.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\Atividade_Almir_Api\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -79,55 +212,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-01T22:59:57.828Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Motos.cs",
-              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\Atividade_Almir_Api\\Model\\Motos.cs",
-              "RelativeDocumentMoniker": "Model\\Motos.cs",
-              "ToolTip": "C:\\Users\\migue\\source\\repos\\Atividade_Almir_Api\\Model\\Motos.cs",
-              "RelativeToolTip": "Model\\Motos.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBMAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T23:00:25.521Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\Atividade_Almir_Api\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\migue\\source\\repos\\Atividade_Almir_Api\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAiwCkAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T22:55:26.261Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Contexto.cs",
-              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\Atividade_Almir_Api\\Model\\Contexto.cs",
-              "RelativeDocumentMoniker": "Model\\Contexto.cs",
-              "ToolTip": "C:\\Users\\migue\\source\\repos\\Atividade_Almir_Api\\Model\\Contexto.cs",
-              "RelativeToolTip": "Model\\Contexto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T22:52:11.091Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MotosController.cs",
-              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\Atividade_Almir_Api\\Controllers\\MotosController.cs",
-              "RelativeDocumentMoniker": "Controllers\\MotosController.cs",
-              "ToolTip": "C:\\Users\\migue\\source\\repos\\Atividade_Almir_Api\\Controllers\\MotosController.cs",
-              "RelativeToolTip": "Controllers\\MotosController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T23:15:15.395Z"
             }
           ]
         }

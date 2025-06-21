@@ -3,6 +3,7 @@ using Atividade_Almir_Api.Model;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -10,9 +11,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Atividade_Almir_Api.Migrations
 {
     [DbContext(typeof(Contexto))]
-    partial class ContextoModelSnapshot : ModelSnapshot
+    [Migration("20250620183825_CriarRelacionamentoClienteEncomenda")]
+    partial class CriarRelacionamentoClienteEncomenda
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -101,6 +104,10 @@ namespace Atividade_Almir_Api.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("Nome")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("UF")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -148,12 +155,17 @@ namespace Atividade_Almir_Api.Migrations
             modelBuilder.Entity("Atividade_Almir_Api.Model.EncomendaMoto", b =>
                 {
                     b.HasOne("Atividade_Almir_Api.Model.Cliente", "Cliente")
-                        .WithMany()
+                        .WithMany("Encomendas")
                         .HasForeignKey("ClienteId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.Navigation("Cliente");
+                });
+
+            modelBuilder.Entity("Atividade_Almir_Api.Model.Cliente", b =>
+                {
+                    b.Navigation("Encomendas");
                 });
 #pragma warning restore 612, 618
         }
